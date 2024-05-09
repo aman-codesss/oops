@@ -1,1 +1,4 @@
- h1.age = 20;
+   Hero(){
+        cout<<"hello there"<<endl;
+        name = new char[100];
+    }
